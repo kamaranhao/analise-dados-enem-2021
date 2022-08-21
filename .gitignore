@@ -1,3 +1,7 @@
+# Dados usados na análise do ENEM
+microdados_enem_2021.zip
+microdados_enem_2021/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
